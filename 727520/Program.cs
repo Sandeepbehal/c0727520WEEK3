@@ -22,6 +22,7 @@ namespace week__3
         public int CalculateRating()
         {
             return 0;
+
         }
 
     }
